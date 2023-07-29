@@ -158,3 +158,13 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+
+bot on telethon/__init__.py
+bot on telethon/special.csv
+bot on telethon/coordinates.csv
+bot on telethon/tables.csv
+bot on telethon/test.png
+bot on telethon/credentials
+bot on telethon/fonts
+bot on telethon/templates
